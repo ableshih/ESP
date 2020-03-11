@@ -11,3 +11,9 @@
 3. 選對 序列埠
 
 4. 檔案 / 範例 / ESP8266 / Blink -> 上傳
+
+
+
+
+ESP8266 Temperature / Humidity Webserver
+https://learn.adafruit.com/esp8266-temperature-slash-humidity-webserver/code
