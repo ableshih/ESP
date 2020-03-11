@@ -16,4 +16,7 @@
 
 
 ESP8266 Temperature / Humidity Webserver
-https://learn.adafruit.com/esp8266-temperature-slash-humidity-webserver/code
+
+[Code](https://learn.adafruit.com/esp8266-temperature-slash-humidity-webserver/code)
+
+   ![Alt text](/ESP01-Hum.jpg)
